@@ -1,0 +1,51 @@
+{\rtf1\ansi\deff0{\fonttbl{\f0\froman Times New Roman;}{\f1\fswiss Arial;}{\f2\fmodern Courier New;}}
+\pard\qc\sb79\sa79\fs29 Tabla de Balanceo Muestral Grupo_1\par
+\trowd\intbl\trautofit1\trgaph144\sb79\sa79\trqc\clbrdrt\brdrs\cellx1512\clbrdrt\brdrs\cellx2688\clbrdrt\brdrs\cellx3864\clbrdrt\brdrs\cellx5040\clbrdrt\brdrs\cellx6216\fs24 \ql \cell \qc Y1_mean\cell \qc Y0_mean\cell \qc Y1-Y0\cell \qc p-value\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb79\sa0\trqc\clbrdrt\brdrs\cellx1512\clbrdrt\brdrs\cellx2688\clbrdrt\brdrs\cellx3864\clbrdrt\brdrs\cellx5040\clbrdrt\brdrs\cellx6216\fs24 \pard\intbl\ql Educacion\cell \pard\intbl\tqdec\tx538 6.4720\cell \pard\intbl\tqdec\tx538 6.3808\cell \pard\intbl\tqdec\tx538 0.0912\cell \pard\intbl\tqdec\tx469 0.1209\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa0\trqc\cellx1512\cellx2688\cellx3864\cellx5040\cellx6216\fs24 \pard\intbl\ql Ingreso\cell \pard\intbl\tqdec\tx538 72.2992\cell \pard\intbl\tqdec\tx538 74.0773\cell \pard\intbl\tqdec\tx538 -1.7781\cell \pard\intbl\tqdec\tx469 0.1604\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa0\trqc\cellx1512\cellx2688\cellx3864\cellx5040\cellx6216\fs24 \pard\intbl\ql Ocupado\cell \pard\intbl\tqdec\tx538 0.7998\cell \pard\intbl\tqdec\tx538 0.7964\cell \pard\intbl\tqdec\tx538 0.0034\cell \pard\intbl\tqdec\tx469 0.5740\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa0\trqc\cellx1512\cellx2688\cellx3864\cellx5040\cellx6216\fs24 \pard\intbl\ql Personas\cell \pard\intbl\tqdec\tx538 5.1297\cell \pard\intbl\tqdec\tx538 5.1403\cell \pard\intbl\tqdec\tx538 -0.0106\cell \pard\intbl\tqdec\tx469 0.7348\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa0\trqc\cellx1512\cellx2688\cellx3864\cellx5040\cellx6216\fs24 \pard\intbl\ql Raza\cell \pard\intbl\tqdec\tx538 0.5038\cell \pard\intbl\tqdec\tx538 0.5008\cell \pard\intbl\tqdec\tx538 0.0030\cell \pard\intbl\tqdec\tx469 0.6968\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa79\trqc\clbrdrb\brdrs\cellx1512\clbrdrb\brdrs\cellx2688\clbrdrb\brdrs\cellx3864\clbrdrb\brdrs\cellx5040\clbrdrb\brdrs\cellx6216\fs24 \pard\intbl\ql Sexo\cell \pard\intbl\tqdec\tx538 0.5211\cell \pard\intbl\tqdec\tx538 0.5148\cell \pard\intbl\tqdec\tx538 0.0063\cell \pard\intbl\tqdec\tx469 0.4097\cell\row
+\pard\qc\sb0\sa79\fs19 Tabla 1.1\par
+\pard\sb0\sa0\fs24\par
+
+\pard\qc\sb79\sa79\fs29 Tabla de Balanceo Muestral Grupo_1_E2\par
+\trowd\intbl\trautofit1\trgaph144\sb79\sa79\trqc\clbrdrt\brdrs\cellx1512\clbrdrt\brdrs\cellx2688\clbrdrt\brdrs\cellx3864\clbrdrt\brdrs\cellx5040\clbrdrt\brdrs\cellx6216\fs24 \ql \cell \qc Y1_mean\cell \qc Y0_mean\cell \qc Y1-Y0\cell \qc p-value\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb79\sa0\trqc\clbrdrt\brdrs\cellx1512\clbrdrt\brdrs\cellx2688\clbrdrt\brdrs\cellx3864\clbrdrt\brdrs\cellx5040\clbrdrt\brdrs\cellx6216\fs24 \pard\intbl\ql Educacion\cell \pard\intbl\tqdec\tx538 6.5070\cell \pard\intbl\tqdec\tx538 6.3806\cell \pard\intbl\tqdec\tx538 0.1264\cell \pard\intbl\tqdec\tx469 0.2184\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa0\trqc\cellx1512\cellx2688\cellx3864\cellx5040\cellx6216\fs24 \pard\intbl\ql Ingreso\cell \pard\intbl\tqdec\tx538 75.0392\cell \pard\intbl\tqdec\tx538 73.6929\cell \pard\intbl\tqdec\tx538 1.3462\cell \pard\intbl\tqdec\tx469 0.5444\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa0\trqc\cellx1512\cellx2688\cellx3864\cellx5040\cellx6216\fs24 \pard\intbl\ql Ocupado\cell \pard\intbl\tqdec\tx538 0.8014\cell \pard\intbl\tqdec\tx538 0.7968\cell \pard\intbl\tqdec\tx538 0.0046\cell \pard\intbl\tqdec\tx469 0.6687\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa0\trqc\cellx1512\cellx2688\cellx3864\cellx5040\cellx6216\fs24 \pard\intbl\ql Personas\cell \pard\intbl\tqdec\tx538 5.1488\cell \pard\intbl\tqdec\tx538 5.1532\cell \pard\intbl\tqdec\tx538 -0.0044\cell \pard\intbl\tqdec\tx469 0.9366\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa0\trqc\cellx1512\cellx2688\cellx3864\cellx5040\cellx6216\fs24 \pard\intbl\ql Raza\cell \pard\intbl\tqdec\tx538 0.4888\cell \pard\intbl\tqdec\tx538 0.4923\cell \pard\intbl\tqdec\tx538 -0.0035\cell \pard\intbl\tqdec\tx469 0.7898\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa79\trqc\clbrdrb\brdrs\cellx1512\clbrdrb\brdrs\cellx2688\clbrdrb\brdrs\cellx3864\clbrdrb\brdrs\cellx5040\clbrdrb\brdrs\cellx6216\fs24 \pard\intbl\ql Sexo\cell \pard\intbl\tqdec\tx538 0.5155\cell \pard\intbl\tqdec\tx538 0.5158\cell \pard\intbl\tqdec\tx538 -0.0003\cell \pard\intbl\tqdec\tx469 0.9822\cell\row
+\pard\qc\sb0\sa79\fs19 Tabla 1.2\par
+\pard\sb0\sa0\fs24\par
+
+\pard\qc\sb79\sa79\fs29 Tabla de Balanceo Muestral Grupo_1_E1\par
+\trowd\intbl\trautofit1\trgaph144\sb79\sa79\trqc\clbrdrt\brdrs\cellx1512\clbrdrt\brdrs\cellx2688\clbrdrt\brdrs\cellx3864\clbrdrt\brdrs\cellx5040\clbrdrt\brdrs\cellx6216\fs24 \ql \cell \qc Y1_mean\cell \qc Y0_mean\cell \qc Y1-Y0\cell \qc p-value\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb79\sa0\trqc\clbrdrt\brdrs\cellx1512\clbrdrt\brdrs\cellx2688\clbrdrt\brdrs\cellx3864\clbrdrt\brdrs\cellx5040\clbrdrt\brdrs\cellx6216\fs24 \pard\intbl\ql Educacion\cell \pard\intbl\tqdec\tx538 6.4554\cell \pard\intbl\tqdec\tx538 6.3810\cell \pard\intbl\tqdec\tx538 0.0744\cell \pard\intbl\tqdec\tx469 0.2994\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa0\trqc\cellx1512\cellx2688\cellx3864\cellx5040\cellx6216\fs24 \pard\intbl\ql Ingreso\cell \pard\intbl\tqdec\tx538 70.9942\cell \pard\intbl\tqdec\tx538 74.2711\cell \pard\intbl\tqdec\tx538 -3.2769\cell \pard\intbl\tqdec\tx469 0.0336\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa0\trqc\cellx1512\cellx2688\cellx3864\cellx5040\cellx6216\fs24 \pard\intbl\ql Ocupado\cell \pard\intbl\tqdec\tx538 0.7991\cell \pard\intbl\tqdec\tx538 0.7962\cell \pard\intbl\tqdec\tx538 0.0029\cell \pard\intbl\tqdec\tx469 0.6966\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa0\trqc\cellx1512\cellx2688\cellx3864\cellx5040\cellx6216\fs24 \pard\intbl\ql Personas\cell \pard\intbl\tqdec\tx538 5.1206\cell \pard\intbl\tqdec\tx538 5.1338\cell \pard\intbl\tqdec\tx538 -0.0132\cell \pard\intbl\tqdec\tx469 0.7284\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa0\trqc\cellx1512\cellx2688\cellx3864\cellx5040\cellx6216\fs24 \pard\intbl\ql Raza\cell \pard\intbl\tqdec\tx538 0.5110\cell \pard\intbl\tqdec\tx538 0.5051\cell \pard\intbl\tqdec\tx538 0.0058\cell \pard\intbl\tqdec\tx469 0.5293\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa79\trqc\clbrdrb\brdrs\cellx1512\clbrdrb\brdrs\cellx2688\clbrdrb\brdrs\cellx3864\clbrdrb\brdrs\cellx5040\clbrdrb\brdrs\cellx6216\fs24 \pard\intbl\ql Sexo\cell \pard\intbl\tqdec\tx538 0.5237\cell \pard\intbl\tqdec\tx538 0.5143\cell \pard\intbl\tqdec\tx538 0.0094\cell \pard\intbl\tqdec\tx469 0.3088\cell\row
+\pard\qc\sb0\sa79\fs19 Tabla 1.4\par
+\pard\sb0\sa0\fs24\par
+
+\pard\qc\sb79\sa79\fs29 Tabla de Balanceo Muestral E1\par
+\trowd\intbl\trautofit1\trgaph144\sb79\sa79\trqc\clbrdrt\brdrs\cellx1512\clbrdrt\brdrs\cellx2688\clbrdrt\brdrs\cellx3864\clbrdrt\brdrs\cellx5040\clbrdrt\brdrs\cellx6216\fs24 \ql \cell \qc Y1_mean\cell \qc Y0_mean\cell \qc Y1-Y0\cell \qc p-value\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb79\sa0\trqc\clbrdrt\brdrs\cellx1512\clbrdrt\brdrs\cellx2688\clbrdrt\brdrs\cellx3864\clbrdrt\brdrs\cellx5040\clbrdrt\brdrs\cellx6216\fs24 \pard\intbl\ql Educacion\cell \pard\intbl\tqdec\tx538 6.3810\cell \pard\intbl\tqdec\tx538 6.3806\cell \pard\intbl\tqdec\tx538 0.0004\cell \pard\intbl\tqdec\tx469 0.9955\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa0\trqc\cellx1512\cellx2688\cellx3864\cellx5040\cellx6216\fs24 \pard\intbl\ql Ingreso\cell \pard\intbl\tqdec\tx538 74.2711\cell \pard\intbl\tqdec\tx538 73.6929\cell \pard\intbl\tqdec\tx538 0.5782\cell \pard\intbl\tqdec\tx469 0.6680\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa0\trqc\cellx1512\cellx2688\cellx3864\cellx5040\cellx6216\fs24 \pard\intbl\ql Ocupado\cell \pard\intbl\tqdec\tx538 0.7962\cell \pard\intbl\tqdec\tx538 0.7968\cell \pard\intbl\tqdec\tx538 -0.0006\cell \pard\intbl\tqdec\tx469 0.9217\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa0\trqc\cellx1512\cellx2688\cellx3864\cellx5040\cellx6216\fs24 \pard\intbl\ql Personas\cell \pard\intbl\tqdec\tx538 5.1338\cell \pard\intbl\tqdec\tx538 5.1532\cell \pard\intbl\tqdec\tx538 -0.0194\cell \pard\intbl\tqdec\tx469 0.5565\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa0\trqc\cellx1512\cellx2688\cellx3864\cellx5040\cellx6216\fs24 \pard\intbl\ql Raza\cell \pard\intbl\tqdec\tx538 0.5051\cell \pard\intbl\tqdec\tx538 0.4923\cell \pard\intbl\tqdec\tx538 0.0128\cell \pard\intbl\tqdec\tx469 0.1113\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb0\sa79\trqc\clbrdrb\brdrs\cellx1512\clbrdrb\brdrs\cellx2688\clbrdrb\brdrs\cellx3864\clbrdrb\brdrs\cellx5040\clbrdrb\brdrs\cellx6216\fs24 \pard\intbl\ql Sexo\cell \pard\intbl\tqdec\tx538 0.5143\cell \pard\intbl\tqdec\tx538 0.5158\cell \pard\intbl\tqdec\tx538 -0.0015\cell \pard\intbl\tqdec\tx469 0.8505\cell\row
+\pard\qc\sb0\sa79\fs19 Tabla 1.4\par
+\pard\sb0\sa0\fs24\par
+
+\pard\qc\sb79\sa79\fs29 Diferencia de medias para E1\par
+\trowd\intbl\trautofit1\trgaph144\sb79\sa79\trqc\clbrdrt\brdrs\cellx840\clbrdrt\brdrs\cellx2016\clbrdrt\brdrs\cellx3192\clbrdrt\brdrs\cellx4368\clbrdrt\brdrs\cellx5544\fs24 \ql \cell \qc Y1_mean\cell \qc Y0_mean\cell \qc Y1-Y0\cell \qc p-value\cell\row
+\trowd\intbl\trautofit1\trgaph144\sb79\sa79\trqc\clbrdrt\brdrs\clbrdrb\brdrs\cellx840\clbrdrt\brdrs\clbrdrb\brdrs\cellx2016\clbrdrt\brdrs\clbrdrb\brdrs\cellx3192\clbrdrt\brdrs\clbrdrb\brdrs\cellx4368\clbrdrt\brdrs\clbrdrb\brdrs\cellx5544\fs24 \pard\intbl\ql Talla\cell \pard\intbl\tqdec\tx538 -0.7229\cell \pard\intbl\tqdec\tx538 -0.6605\cell \pard\intbl\tqdec\tx538 -0.0625\cell \pard\intbl\tqdec\tx469 0.0023\cell\row
+\pard\qc\sb0\sa79\fs19 Tabla 1.5\par
+\pard\sb0\sa0\fs24\par
+}
